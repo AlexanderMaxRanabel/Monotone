@@ -10,6 +10,10 @@ Minecraft Fabric Cheating. Based on bedroom™ unfiltered minecraft java based m
 
 İts system is written to give you unfair advantages  in minecraft public shared multiplayer in-game worlds.
 
+# What is Monotone?
+
+Monotone™ is a java based unfair advantage and player operator assistance mod to give unfair advantages in public shared multiplayer in-game worlds.
+
 Click GUİ bind to rshift.
 Currently does not feauture any modules
 
